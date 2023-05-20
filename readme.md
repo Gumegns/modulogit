@@ -27,3 +27,4 @@ git branch -d (Deleta um branch)
 -
 
 git diff (Este comando permite visualizar o que foi alterado no antes do commit)
+git diff --name-only (Me mostra o nome dos arquivos que foram alteradas)
