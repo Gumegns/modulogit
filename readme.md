@@ -7,10 +7,14 @@ git add -A (Ele adiciona todas alerações que foram feitas até alí no meu pro
 git commit  -m (Este comando seguido de Aspas, usa-se para comentar a alterção feita no projecto e adicionando ao histórico do git)
      " o git add -A andam sempre juntos, assim que o usamos o comando '.. add -A' (Para adicionar alterações ao projecto) seguimos com o comando '.. commit -m' para comentar aquelas alterações para que possamos saber do que se trata aquele monitoramento "
 
-
-Diferenças entre Git e Github
-
 O git é um sistema que vai monitorar meu projecto localmente e o github monitora virtualmente. A sincronização do GIT e GITHUB nos permite monitorar o projecto/sistema localmente e compartilhar virtualmente.
 
 
-Essa linha vai sair
+git reset  - O git reset é um comando que usa-se para apagar um monitoramento ou histórico de um commit. Basicamente ele funciona com três parâmetros 
+
+    -git reset --soft (Volta para o estado antes do commit)
+    -git reset --mixed (volta para o estado antes da adição das alterações no git)
+    -git reset --hard (Apaga tudo que foi feito naquele has do commit)
+
+git branch -b (Cria um novo e já entra no novo branch)
+git branch -d (Deleta um branch)
