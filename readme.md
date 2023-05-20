@@ -11,3 +11,6 @@ git commit  -m (Este comando seguido de Aspas, usa-se para comentar a alterção
 Diferenças entre Git e Github
 
 O git é um sistema que vai monitorar meu projecto localmente e o github monitora virtualmente. A sincronização do GIT e GITHUB nos permite monitorar o projecto/sistema localmente e compartilhar virtualmente.
+
+
+Essa linha vai sair
