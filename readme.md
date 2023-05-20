@@ -8,3 +8,5 @@ git commit  -m (Este comando seguido de Aspas, usa-se para comentar a alterção
      " o git add -A andam sempre juntos, assim que o usamos o comando '.. add -A' (Para adicionar alterações ao projecto) seguimos com o comando '.. commit -m' para comentar aquelas alterações para que possamos saber do que se trata aquele monitoramento "
 
 O git é um sistema que vai monitorar meu projecto localmente e o github monitora virtualmente. A sincronização do GIT e GITHUB nos permite monitorar o projecto/sistema localmente e compartilhar virtualmente.
+
+testando o comando
