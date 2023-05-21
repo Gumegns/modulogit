@@ -29,3 +29,9 @@ git branch -d (Deleta um branch)
 git diff (Este comando permite visualizar o que foi alterado no antes do commit)
 git diff --name-only (Me mostra o nome dos arquivos que foram alteradas)
 git diff nome-do-arquivo (Este comando me permite ver só alterações de um arquivo que foi alterado)
+
+-
+
+git remote add origin (Com este comado seguido da URL do seu repositório, adicionamos a origin no project)
+git push -u origin (Usamos este comando seguido por nome de branch para empurar os arquivo do projecto no GIT para GITHUB)
+
