@@ -35,3 +35,8 @@ git diff nome-do-arquivo (Este comando me permite ver só alterações de um arq
 git remote add origin (Com este comado seguido da URL do seu repositório, adicionamos a origin no project)
 git push -u origin (Usamos este comando seguido por nome de branch para empurar os arquivo do projecto no GIT para GITHUB)
 
+
+-
+
+git push origin :nome_do_branch (Este comando remove um determinado branch na Github)
+
